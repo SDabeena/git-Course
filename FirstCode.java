@@ -4,5 +4,6 @@ Class first{
         System.out.println("Sabbu");
         System.out.println("Shaki");
         System.out.println("loves");
+        
     }
 }
